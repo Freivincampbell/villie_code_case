@@ -31,3 +31,11 @@ Then run:
 ```shell
 npm start
 ```
+
+4. Enable environment variables:
+
+```shell
+mv .env.example .env
+```
+
+5. Paste credentials into the .env file. [provided by email]
